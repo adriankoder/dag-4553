@@ -10,11 +10,14 @@ body {
 h1{
   color: red;
   text-align: center;
+  text-shadow: 2px 3px black;
+
 }
 
 
 p {
     color: rgb(255, 251, 251);
+    text-shadow: 2px 3px black;
     text-align: center
 }
 
@@ -22,14 +25,12 @@ li {
     color: red;
     text-align: center;
     margin-top: 50px;
+    text-shadow: 2px 3px black;
 }
 
 a {
     color: rgb(255, 247, 247);
+    text-shadow: 2px 3px black;
     text-align: center
+
 }
-
-
-/* img {
-    bacgrou
-} */
