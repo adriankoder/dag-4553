@@ -1,10 +1,11 @@
 
+
 body {
     background-color:lightblue;
     background-image: url(en_man_som_spiller.jpg); 
     background-repeat: no-repeat;
     background-size: cover;
-    text-align: center;
+  
 }
 
 h1{
@@ -17,20 +18,27 @@ h1{
 
 p {
     color: rgb(255, 251, 251);
-    text-shadow: 2px 3px black;
-    text-align: center
+    text-align: center;
+  text-shadow: 2px 3px black;
+    
 }
 
 li {
     color: red;
     text-align: center;
-    margin-top: 50px;
     text-shadow: 2px 3px black;
+    margin-top: 50px;
+   
 }
 
 a {
-    color: rgb(255, 247, 247);
+    color: white;
+    text-align: center;
     text-shadow: 2px 3px black;
-    text-align: center
+    
 
+}
+.space between heading and text
+{
+    margin-top: 60px;
 }
