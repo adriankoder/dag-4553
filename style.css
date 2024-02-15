@@ -1,26 +1,21 @@
-
-
 body {
-    background-color:lightblue;
-    background-image: url(en_man_som_spiller.jpg); 
+    background-color: lightblue;
+    background-image: url(en_man_som_spiller.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-  
 }
 
-h1{
-  color: red;
-  text-align: center;
-  text-shadow: 2px 3px black;
-
+h1 {
+    color: red;
+    text-align: center;
+    text-shadow: 2px 3px black;
 }
-
 
 p {
     color: rgb(255, 251, 251);
     text-align: center;
-  text-shadow: 2px 3px black;
-    
+    text-shadow: 2px 3px black;
+    margin-top: 25px;
 }
 
 li {
@@ -28,17 +23,22 @@ li {
     text-align: center;
     text-shadow: 2px 3px black;
     margin-top: 50px;
-   
 }
 
 a {
-    color: white;
+    color: rgb(255, 251, 251);
     text-align: center;
     text-shadow: 2px 3px black;
-    
-
 }
-.space between heading and text
+
+/* Legger til klasse for avstand mellom overskrift og tekst */
+.space-between-heading-and-text {
+    margin-top: 50px;
+}
+
+/* Den eksisterende CSS for .ex1 klasse */
+.ex1 
+
 {
-    margin-top: 60px;
+    margin-top: 25px;
 }
